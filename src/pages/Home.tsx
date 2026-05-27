@@ -1,5 +1,4 @@
 // pages/Home.tsx
-import { Hammer, Wrench } from "lucide-react";
 
 export default function Home() {
   return (
